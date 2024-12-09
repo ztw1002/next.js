@@ -1,4 +1,4 @@
-// ts 的配置文件
+// ts 的配置文件   ///
 {
   "compilerOptions": {
     "target": "ES2017",
